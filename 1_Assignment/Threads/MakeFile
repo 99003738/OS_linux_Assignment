@@ -1,0 +1,5 @@
+build : 
+	gcc maxthread.c -o m.out
+	gcc minthread.c -o m1.out
+	gcc sumarraythread.c s.out
+	gcc time_thread.c t.out
