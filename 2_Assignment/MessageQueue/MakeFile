@@ -1,0 +1,3 @@
+build :
+	gcc message_sender.c -o s.out
+	gcc message_receiver.c -o r.out
