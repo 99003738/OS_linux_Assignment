@@ -1,0 +1,5 @@
+build :
+	gcc queue_mutex.c -o q1.out
+	gcc queue_semaphore -o q2.out
+	gcc stack_mutex -o s1.out
+	gcc stack_semaphore -o s2.out
