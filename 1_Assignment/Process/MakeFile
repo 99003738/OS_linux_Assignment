@@ -1,0 +1,4 @@
+build : 
+	gcc minishell.c -o shell.out
+	gcc wordcount.c -o wc.out
+	gcc launchfile.c -o l.out
